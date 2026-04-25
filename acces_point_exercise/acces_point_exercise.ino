@@ -6,7 +6,7 @@
 #include <WiFi.h>
 
 // Access Point credentials
-const char* ssid     = "UUM_Guest";
+const char* ssid     = "Azizi";
 const char* password = "123456789";
 
 // Create web server on port 80
